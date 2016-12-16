@@ -1,1 +1,1 @@
-This is ThalRo's first git project!
+This is my git test repo.
